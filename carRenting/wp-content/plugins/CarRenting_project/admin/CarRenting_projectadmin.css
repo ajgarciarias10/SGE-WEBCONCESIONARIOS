@@ -1,0 +1,12 @@
+.details .standard{
+   display:flex;
+    justify-content : space-between;
+    align-content :space-between ;
+    flex-flow : column nowrap;
+    width:18%;
+    margin-bottom :5px;
+
+}
+#metabox{
+     background:rgba(181,181,181,.1);
+}
